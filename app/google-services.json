@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26981334404",
+    "project_id": "studentapp-ad84b",
+    "storage_bucket": "studentapp-ad84b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26981334404:android:b63fbe2050c49127b3b1d1",
+        "android_client_info": {
+          "package_name": "com.internshala.everyproject24by7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26981334404-r0op4tod4jerg5g9p512b47fs1m43ja9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgOp5sWNCzX3RLdSKMExMQgiiM0ptSOpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26981334404-r0op4tod4jerg5g9p512b47fs1m43ja9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
